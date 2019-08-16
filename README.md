@@ -16,6 +16,11 @@ This repository contains materials for Technologies of Memory, offered at FSU in
 2. A schedule of assignments
 3. Additional materials
 
+## Books
+
+The following course books must be purchased in order to complete the coursework for this class:
+
 ## Regarding Canvas
 
 All public materials for the course will be maintained and accessible on this site. The only use of Canvas for this course is for protected grade related information in the coursebook. 
+
