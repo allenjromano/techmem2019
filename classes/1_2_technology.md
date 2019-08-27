@@ -2,6 +2,10 @@
 
 ## Before class
 
+#### Review
+
+Review the [Syllabus](https://allenjromano.github.io/techmem2019/syllabus) and [policy statements](https://allenjromano.github.io/techmem2019/policies). 
+
 #### Read
 
 Excerpt, Tiles and Oberdick, "Conflicting Visions of Technology"
@@ -18,6 +22,7 @@ O'Shea, [Technology is as Biased as Its Makers](https://longreads.com/2019/05/14
 
 #### Respond
 
+Print the response sheet; fill it out; bring to class.
 
 
 ## During Class 
