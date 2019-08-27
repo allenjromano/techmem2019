@@ -8,9 +8,9 @@ Review the [Syllabus](https://allenjromano.github.io/techmem2019/syllabus) and [
 
 #### Read
 
-Excerpt, Tiles and Oberdick, "Conflicting Visions of Technology"
+Excerpt, Tiles and Oberdick, "Conflicting Visions of Technology" [{link, through canvas}](https://canvas.fsu.edu/courses/105751/files?preview=5739853)
 
-Excerpt, Spencer, *A People's History of Silicon Valley*
+Excerpt, Spencer, *A People's History of Silicon Valley* [{link, through canvas}](https://canvas.fsu.edu/courses/105751/files?preview=5739854)
 
 
 
@@ -22,7 +22,9 @@ O'Shea, [Technology is as Biased as Its Makers](https://longreads.com/2019/05/14
 
 #### Respond
 
-Print the response sheet; fill it out; bring to class.
+Print the [response sheet](responses/1_2_response.pdf); fill it out; bring to class.
+
+
 
 
 ## During Class 
