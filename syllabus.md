@@ -4,13 +4,17 @@
 ### Contact
 
 Dr. Allen J. Romano, Program in Interdisciplinary Humanities
-aromano@fsu.edu
+
+email: aromano at the usual fsu place
+
 Office: Diff 434 
+
 Office hours: by appointment on Wednesdays. Sign up at https://scheduleonce.com/allenjromano
 
 ### Class Details
 
 T/Th 12:30-1:45
+
 Williams 209
 
 ### Overview
@@ -35,25 +39,27 @@ Each of these parts will be explained below. For now, note that this is a class 
 ### Assignments (aka "stuff you need to do")
 Each type of class assignment is detailed below.
 
-<u>**For each class session:**</u>
+**For each class session:**
 
-***Regular Readings:*** This is the bread and butter of the course. Preparation is straightforward. Complete the entirety of the reading assignment in advance of class. Write a small amount in response to the prompt for that reading. Bring that bit of writing (usually a very short paragraph) to class with you and be prepared to discuss. 
+*Regular Readings:* This is the bread and butter of the course. Preparation is straightforward. Complete the entirety of the reading assignment in advance of class. Write a small amount in response to the prompt for that reading. Bring that bit of writing (usually a very short paragraph) to class with you and be prepared to discuss. 
 
 Readings are given at the page for each individual class session below. These pages will also contain brief notes or links of interest related to each class session. 
 
 Note that for the weeks with movies, you just need to show up. No preparation necessary.
 
-<u>**For each week**</u>:
+**For each week:**
 
-***Add an entry to your portfolio*:** This is a distinctive feature of this course where we get to experiment a bit with the effects of technology in our own lives. The basic assignment is for you to spend 30-40 minutes each week doing something (usually writing) in response to what you have read/viewed/discussed in class. This is a chance, vis-a-vis content, to process what you've been looking at all week. For the first few weeks, you are asked to find some preferred mode of writing. This can be on the computer, or with pencil/pen and paper. Then, in subsequent weeks, you will vary the technology with which you record your thoughts about the week's reading. The options include, but are not limited to variations in technology (e.g. typewriter, 1980s computer, phone), writing implement and medium (pen, pencil, quill, parchment, papyrus), style or format (letter, memoir, comic strip, dialogue, philosophical essay, poem, computer program), and communication technology (voice recording, video, interpretive dance, musical composition). You will be invited to reflect in particular on what difference, if any, the variation in technology makes to the way you think about the topics at hand. 
+*Add an entry to your portfolio:* This is a distinctive feature of this course where we get to experiment a bit with the effects of technology in our own lives. The basic assignment is for you to spend 30-40 minutes each week doing something (usually writing) in response to what you have read/viewed/discussed in class. This is a chance, vis-a-vis content, to process what you've been looking at all week. For the first few weeks, you are asked to find some preferred mode of writing. This can be on the computer, or with pencil/pen and paper. Then, in subsequent weeks, you will vary the technology with which you record your thoughts about the week's reading. The options include, but are not limited to variations in technology (e.g. typewriter, 1980s computer, phone), writing implement and medium (pen, pencil, quill, parchment, papyrus), style or format (letter, memoir, comic strip, dialogue, philosophical essay, poem, computer program), and communication technology (voice recording, video, interpretive dance, musical composition). You will be invited to reflect in particular on what difference, if any, the variation in technology makes to the way you think about the topics at hand. 
 
-<u>**Every three weeks (more or less):**</u>
+We will work with these for a short time during class, so make sure to bring with you.
 
-***Complete the "Labs":*** There are three "labs" spread throughout the term, typically during weeks where we will focus in particular on contemporary discourse about technology and its effects. These will follow up on activities that we hold in the Innovation Hub during that week. You will need to submit for each a brief analysis (approximately 2-3 pages) based on the activity and what we have been reading/discussing in the course
+**Every three weeks (more or less):**
 
-**<u>End of the term:</u>**
+*Complete the "Labs":* There are three "labs" spread throughout the term, typically during weeks where we will focus in particular on contemporary discourse about technology and its effects. These will follow up on activities that we hold in the Innovation Hub during that week. You will need to submit for each a brief analysis (approximately 2-3 pages) based on the activity and what we have been reading/discussing in the course
 
-***Revise and expand on a previous assignment.*** In place of a final paper, this is a form of a project which has maximum flexibility. You are asked simply to expand substantially and revise some bit of your previous work. This may take the form of a paper or traditional research exercise if you wish. But it may also be based in or utilize any technology (e.g. a website, a film, etc.), depending on your interests. Each student will meet with me at some point in or around week 11 of the course in order to discuss the possibilities. 
+**End of the term:**
+
+*Revise and expand on a previous assignment.* In place of a final paper, this is a form of a project which has maximum flexibility. You are asked simply to expand substantially and revise some bit of your previous work. This may take the form of a paper or traditional research exercise if you wish. But it may also be based in or utilize any technology (e.g. a website, a film, etc.), depending on your interests. Each student will meet with me at some point in or around week 11 of the course in order to discuss the possibilities. 
 
 ### Grading
 
@@ -63,17 +69,15 @@ My expectations are fairly straightforward: do all the readings, show up to clas
 
 Officially, the quantification of this basic principle is that each component of the course counts equally towards the total. I will assign a letter grade in each area based on both quantity (did you do it, did you show up etc.) and quality (did you engage in the class regularly, etc.)
 
-Show up: Attendance and engagement is the foundation. If you're not in class then there is no course.  20% of the final grade
+1. Show up: Attendance and engagement is the foundation. If you're not in class then there is no course.  20% of the final grade
 
-Do the readings: Do the readings in full, answer the prompts in full. 20% of the final grade
+2. Do the readings: Do the readings in full, answer the prompts in full. 20% of the final grade
 
-Weekly portfolio (13): 20%
+3. Weekly portfolio (13): 20%
 
-Labs (3): 20%
+4. Labs (3): 20%
 
-Revision/Expansion: 20%
-
-
+5. Revision/Expansion: 20%
 
 *Late Assignments*: In general, an occasional late assignment is not a problem. Similarly, an occasional absence is not a problem. However, for patterns of behavior, there are consequences. Therefore, the deduction for late assignments or missed classes is exponential. The first late assignment is .25% off the _final_ grade, the second .50% off, the third 1% off, and so forth. Thus a pattern of weeks' worth of late assignments will result in very significant grade deductions. 
 
