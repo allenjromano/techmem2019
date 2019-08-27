@@ -87,9 +87,9 @@ In cases of occasional lateness, I do not need to know reasons, causes, etc. How
 
 **Week 1: Introduction, Technology, Memory**
 
-Tuesday 8/27: Introduction
+Tuesday 8/27: [Introduction](/sessions/1_1_intro)
 
-Thursday 8/29: Technology
+Thursday 8/29: [Technology](/sessions/1_2_technology)
 
 
 
