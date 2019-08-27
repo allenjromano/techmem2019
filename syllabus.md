@@ -1,6 +1,9 @@
 # Technologies of Memory
 ## Syllabus
 
+Last updated
+Tue 27 Aug 2019 11:24:19 AM EDT
+
 ### Contact
 
 Dr. Allen J. Romano, Program in Interdisciplinary Humanities
