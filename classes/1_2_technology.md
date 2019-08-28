@@ -22,7 +22,7 @@ O'Shea, [Technology is as Biased as Its Makers](https://longreads.com/2019/05/14
 
 #### Respond
 
-Print the [response sheet](response_sheets/1_2_response.pdf); fill it out; bring to class.
+Print the [response sheet](https://github.com/allenjromano/techmem2019/raw/master/response_sheets/1_2_response.pdf); fill it out; bring to class.
 
 
 
