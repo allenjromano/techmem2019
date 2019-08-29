@@ -98,9 +98,9 @@ Thursday 8/29: [Technology](classes/1_2_technology)
 
 **Week 2: The Craft of Memory**
 
-Tuesday, 9/3: Medieval Memory and Walks with Einstein
+Tuesday, 9/3: [Medieval Memory and Walks with Einstein](classes/2_1)
 
-Thursday, 9/5: Mnemonists
+Thursday, 9/5: [Mnemonists](classes/2_2)
 
 
 
