@@ -45,3 +45,5 @@ Homer, *Odyssey* (trans. Emily Wilson): 978-0393356250
 
 All public materials for the course will be maintained and accessible on this site. The only use of Canvas for this course is for protected grade related information in the coursebook or for materials that are not available publicly online.
 
+## Issues? Links broken?
+If there is something not quite right, then get in touch with me so that I can fix it quickly. If you are feeling particularly git-comfortable, then feel free to open an issue or fix it with a pull request. 
