@@ -1,13 +1,10 @@
 # Technologies of Memory
 ## Fall 2019
 
-*Instructor*: Dr. Allen J. Romano, Associate Teaching Professor, Program in Interdisciplinary Humanities
+## Updates
 
-*Office*: Diffenbaugh 434
+Sun 01 Sep 2019 11:45:17 AM EDT: Links to 2_1 and 2_2 sheets fixed. 
 
-*Contact*: You can reach me via email at aromano at the regular fsu and edu place.
-
-*Office Hours*: By appointment during normal human business hours during the week. You can find my schedule and make an appointment by going to http://scheduleonce.com/allenjromano
 
 ## Class Materials
 
@@ -16,6 +13,15 @@ This repository contains materials for *Technologies of Memory*, offered at FSU 
 1. [The Syllabus](https://allenjromano.github.io/techmem2019/syllabus)
 2. [Current Assignments](https://allenjromano.github.io/techmem2019/current_assignments) 
 3. Additional Materials
+
+## Instructor Information
+Dr. Allen J. Romano, Associate Teaching Professor, Program in Interdisciplinary Humanities
+
+*Office*: Diffenbaugh 434
+
+*Contact*: You can reach me via email at aromano at the regular fsu and edu place.
+
+*Office Hours*: By appointment during normal human business hours during the week. You can find my schedule and make an appointment by going to http://scheduleonce.com/allenjromano
 
 ## Books
 
