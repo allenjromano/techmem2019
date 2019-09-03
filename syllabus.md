@@ -124,7 +124,7 @@ Thursday 9/19: Further Magical Thinking
 
 **Week 5: The Origins of Autobiography**
 
-Tuesday 9/24: The Bestseller You've Never Read
+Tuesday 9/24: Augustine, Confessions
 
 Thursday 9/26: Memory and Philosophy
 
