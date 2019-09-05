@@ -106,9 +106,9 @@ Thursday, 9/5: [Mnemonists](classes/2_2)
 
 **Week 3: Metaphors for Memory**
 
-Tuesday 9/10: Brains are computers
+Tuesday 9/10: [Brains are computers](classes/3_1)
 
-Thursday 9/12: Brains are not computers
+Thursday 9/12: [Brains are not computers](classes/3_2)
 
 *<u>Lab 1 due before next class: UX/UI and your brain on the internet</u>*
 

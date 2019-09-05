@@ -3,10 +3,8 @@
 See the full [Syllabus](syllabus) for all schedule links.
 
 Current assignments 
-Thu 29 Aug 2019 11:59:52 AM EDT
 
-**Week 1**
-For Thursday, 8/29: [1.2 Technology](classes/1_2_technology)
+Last updated: Thu 05 Sep 2019 12:16:50 PM EDT
 
 **Week 2**
 
