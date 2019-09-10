@@ -5,6 +5,7 @@
 
 Sun 01 Sep 2019 11:45:17 AM EDT: Links to 2_1 and 2_2 sheets fixed. 
 
+Mon 09 Sep 2019 03:05:15 PM EDT: response sheet updated; generic response sheet with questions listed in each assignment
 
 ## Class Materials
 
