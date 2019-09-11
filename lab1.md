@@ -8,8 +8,10 @@ For this first assignment, we look at the kinds of interfaces we use to interact
 You are asked here to do a bit of reading for context and then to spend the majority of your time experimenting with various technologies in order to answer the question: what difference does the way we access a computer make for how we view the world at large?
 
 ## To Do
-Read the following: [https://getpocket.com/explore/item/why-bad-technology-dominates-our-lives-according-to-don-norman?utm_source=pocket-newtab](https://getpocket.com/explore/item/why-bad-technology-dominates-our-lives-according-to-don-norman?utm_source=pocket-newtab)
+### Read the following:
+
+[https://getpocket.com/explore/item/why-bad-technology-dominates-our-lives-according-to-don-norman?utm_source=pocket-newtab](https://getpocket.com/explore/item/why-bad-technology-dominates-our-lives-according-to-don-norman?utm_source=pocket-newtab)
 
 Tristan Harris: [https://www.wired.com/story/tristan-harris-tech-is-downgrading-humans-time-to-fight-back/](https://www.wired.com/story/tristan-harris-tech-is-downgrading-humans-time-to-fight-back/)
 
-
+### Experiment
