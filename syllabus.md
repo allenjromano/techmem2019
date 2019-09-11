@@ -110,9 +110,6 @@ Tuesday 9/10: [Brains are computers](classes/3_1)
 
 Thursday 9/12: [Brains are not computers](classes/3_2)
 
-*<u>Lab 1 due before next class: UX/UI and your brain on the internet</u>*
-
-
 
 **Week 4: Memory and the Self**
 
@@ -120,6 +117,7 @@ Tuesday 9/17: The Year of Magical Thinking
 
 Thursday 9/19: Further Magical Thinking
 
+*<u>Lab 1 due before next class: UX/UI and your brain on the internet</u>*
 
 
 **Week 5: The Origins of Autobiography**
