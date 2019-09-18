@@ -113,18 +113,18 @@ Thursday 9/12: [Brains are not computers](classes/3_2)
 
 **Week 4: Memory and the Self**
 
-Tuesday 9/17: The Year of Magical Thinking
+Tuesday 9/17: The Year of Magical Thinking [4.1](classes/4_1)
 
-Thursday 9/19: Further Magical Thinking
+Thursday 9/19: Further Magical Thinking [4.2](classes/4_2)
 
-*<u>Lab 1 due before next class: UX/UI and your brain on the internet</u>*
+*Lab 1 due before next class: UX/UI and your brain on the internet*
 
 
 **Week 5: The Origins of Autobiography**
 
-Tuesday 9/24: Augustine, Confessions
+Tuesday 9/24: Augustine, Confessions [5.1](classes/5_1)
 
-Thursday 9/26: Memory and Philosophy
+Thursday 9/26: Memory and Philosophy [5.2](classes/5_2)
 
 
 
