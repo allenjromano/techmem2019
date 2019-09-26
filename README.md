@@ -3,9 +3,8 @@
 
 ## Updates
 
-Sun 01 Sep 2019 11:45:17 AM EDT: Links to 2_1 and 2_2 sheets fixed. 
+*Note re: labs* Originally I had planned on doing these earlier in the semester. We will instead do them a bit later in the term. They will be primarily during class time.
 
-Mon 09 Sep 2019 03:05:15 PM EDT: response sheet updated; generic response sheet with questions listed in each assignment
 
 ## Class Materials
 
