@@ -138,9 +138,9 @@ Thursday 10/3: A Right to be forgotten
 
 **Week 7: Cinematic interlude I**
 
-Tuesday, 10/8: Memento, part 1
+Tuesday, 10/8: Memento, part 1 [7.1](classes/7_1)
 
-Thursday, 10/10: Memento, part 2
+Thursday, 10/10: Memento, part 2 [7.2](classes/7_2)
 
 
 
