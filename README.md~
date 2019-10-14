@@ -12,8 +12,8 @@ This repository contains materials for *Technologies of Memory*, offered at FSU 
 
 1. [The Syllabus](https://allenjromano.github.io/techmem2019/syllabus)
 2. [Current Assignments](https://allenjromano.github.io/techmem2019/current_assignments) 
-- [5.1 Tuesday](classes/5_1)
-- [5.2 Thursday](classes/5_2)
+- [7.1 Tuesday](classes/7_1)
+- [7.2 Thursday](classes/7_2)
 
 3. Additional Materials
 
