@@ -2,7 +2,7 @@
 ## Syllabus
 
 Last updated
-Mon 14 Oct 2019 07:55:34 PM EDT
+Wed 30 Oct 2019 03:48:31 PM EDT
 
 ### Contact
 
@@ -165,8 +165,6 @@ Thursday, 10/24: Aeschylus, Persians [9.2](classes/9_2)
 Tuesday, 10/29: Museology [10.1](classes/10_1)
 
 Thursday, 10/31: Digital Exhibitions [10.2](classes/10_2)
-
-*<u>Lab 3 Due before next class: Memorialization Report</u>*
 
 
 
