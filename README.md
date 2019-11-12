@@ -13,6 +13,10 @@ This repository contains materials for *Technologies of Memory*, offered at FSU 
 1. [The Syllabus](https://allenjromano.github.io/techmem2019/syllabus)
 2. [Current Assignments](https://allenjromano.github.io/techmem2019/current_assignments) 
 
+Week 12: The Road [12.1](classes/12_1) and [12.2](classes/12_2)
+
+Week 13: The Odyssey [13.1](classes/13_1) and [13.2](classes/13_2)
+
 3. Additional Materials
 
 ## Instructor Information
