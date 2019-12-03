@@ -11,13 +11,17 @@
 This repository contains materials for *Technologies of Memory*, offered at FSU in Fall 2019. You can find, among other things here:
 
 1. [The Syllabus](https://allenjromano.github.io/techmem2019/syllabus)
-2. [Current Assignments](https://allenjromano.github.io/techmem2019/current_assignments) 
 
-Week 12: The Road [12.1](classes/12_1) and [12.2](classes/12_2)
+*Current Assignments*
 
-Week 13: The Odyssey [13.1](classes/13_1) and [13.2](classes/13_2)
+Week 15: Nostalgia and Endings
 
-3. Additional Materials
+[15.1](classes/15_1)
+
+[15.2](classes/15_2)
+
+[Final Project](finalproject): due end of exam week, but highly encouraged to complete this week
+
 
 ## Instructor Information
 Dr. Allen J. Romano, Associate Teaching Professor, Program in Interdisciplinary Humanities

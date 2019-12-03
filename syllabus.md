@@ -2,7 +2,8 @@
 ## Syllabus
 
 Last updated
-Wed 30 Oct 2019 03:48:31 PM EDT
+
+Tue 03 Dec 2019 10:25:19 AM EST
 
 ### Contact
 
@@ -200,12 +201,11 @@ Thursday 11/21: The Odyssey, part 2 [13.2](classes/13_2)
 
 **Week 15: Technology and Memory**
 
-Tuesday 12/3: Technological Utopias
+Tuesday 12/3: The End [15.1](classes/15_1)
 
-Thursday 12/5: Technological Dystopias
+Thursday 12/5: Nostalgia [15.2](classes/15_2)
 
-*<u>Project revision due 12/6</u>*
-
+*[Project revision](finalproject) due 12/13; highly recommended to complete before 12/9*
 
 
 ### Policies
